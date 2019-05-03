@@ -1,6 +1,11 @@
 # Created by https://www.gitignore.io/api/python,windows,jupyternotebook
 # Edit at https://www.gitignore.io/?templates=python,windows,jupyternotebook
 
+
+### RAB's own stuff ###
+trash
+data
+
 ### JupyterNotebook ###
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
